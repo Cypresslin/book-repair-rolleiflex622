@@ -27,6 +27,7 @@
 ![遮光絨布](../images/P1200599.JPG)
 
 更換前與更換後的比較：
+![反光鏡更換前後](../images/MirrorInstalled.JPG)
 ![觀景窗視角](../images/FocusScreen.JPG)
 
 ### 反光鏡規格
