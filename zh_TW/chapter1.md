@@ -1,3 +1,3 @@
 # 前後鏡組清理
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+這台相機除了機件運作不順之外，鏡頭上也有一點霉絲需要處理，
