@@ -4,5 +4,6 @@
 
 ![TessarDesign](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ZeissTessar-text.svg/220px-ZeissTessar-text.svg.png)(圖片來源: [Wikipedia - History of photographic lens design](https://en.wikipedia.org/wiki/History_of_photographic_lens_design))
 
-鏡間快門就位在左邊數來第二群與第三群鏡片之間，這裡最好拆的大概就屬
-前鏡組是最好拆的部份了，只要
+鏡間快門就位在左邊數來第二群與第三群鏡片之間，這裡最好拆的大概就屬最前面那片鏡片了吧
+
+
