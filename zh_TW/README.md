@@ -1,4 +1,7 @@
-# Rolleiflex K2 622 維修紀錄
+# Rolleiflex K2 622 維修日誌
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-由於維修作業不是一次完成，
+這份文件紀錄了當初維修這台相機的步驟，由於維修作業不是一次完成，所以可能會看到照片不大連貫的現象XD 敬請見諒
+
+**請注意這裡所提供的所有資訊僅供參考，不提供任何擔保，請自行負擔所有可能的風險**
+
+特別感謝相機主人願意讓我動手修，還借我拍了好幾捲~
