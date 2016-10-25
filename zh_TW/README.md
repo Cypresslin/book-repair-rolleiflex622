@@ -11,3 +11,8 @@
 在此特別感謝相機主人 ePierre 願意讓我動手修這台他老爸留給的他老相機，並借我拍了好幾捲！
 
 2016 Oct. PHLin
+
+#授權
+**Rolleiflex 622 K2 維修日誌** 係採用創用 CC 姓名標示-非商業性-相同方式分享 4.0 國際 授權條款授權，您可以在以下網址取得授權條款全文。
+
+http://creativecommons.org/licenses/by-nc/4.0/
