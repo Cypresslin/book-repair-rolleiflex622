@@ -2,7 +2,7 @@
 
 ![](../images/P1090459.JPG)
 這份文件紀錄了當初維修這台相機的步驟，由於維修作業不是一次完成，所以可能會看到照片不大連貫的現象，敬請見諒。
-本文以 Gitbook 平台發布，您可以到github找到原始文件，也可以到 [flickr 相簿](https://www.flickr.com/photos/57342563@N00/albums/72157672119064724) 中查看照片。
+本文以 [Gitbook](https://cypresslin.gitbooks.io/rolleiflex-622-repair/content/) 平台發布，您可以到 [GitHub](https://github.com/Cypresslin/book-repair-rolleiflex622) 找到原始文件，也可以到 [flickr 相簿](https://www.flickr.com/photos/57342563@N00/albums/72157672119064724) 中查看照片。
 
 **請注意這裡提供的所有資訊僅供參考，不提供任何擔保，請自行負擔所有可能的風險**
 
