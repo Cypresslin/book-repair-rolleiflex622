@@ -9,13 +9,13 @@ This document was published with [Gitbook](https://cypresslin.gitbooks.io/rollei
 
 You can also find instruction videos about how to [load film](https://youtu.be/vM9XcC0Qwdc) / [unload film](https://youtu.be/Zn-e0FLdRuc).
 
-Thanks to the camera owner ePierre, who trusted me to repair this old camera from his dad, and lend it to me for several rolls.
+Thanks to the camera owner ePierre, who trusted me to repair this 80 years old camera from his father, and lend it to me for several rolls.
 
 2016 Oct. PHLin
 
 #Summary
 There are four chapters in this document:
-* [拍攝鏡組清理](lens_cleaning.md)
+* [Taking Lens Cleanup](lens_cleaning.md)
 * [Mirror Replacement](mirror_replacement.md)
 * [Front Plate Removeal](front_plate.md)
 * [Compur Disassembly](disassemble_compur.md)
