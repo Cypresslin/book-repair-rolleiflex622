@@ -22,13 +22,13 @@ This is the easiest part, just turn the lens with your hands in counter-clockwis
 
 ![Remove the front lens in counter-clockwise direction](../images/P1160551.JPG)
 
-### Read Lens Removal
+### Rear Lens Removal
 After the [front plate was removed](front_plate.md), the first thing in sight is the light shade on the rear lens, remove it by turning it in counter-clockwise direction (or use the spanner wrench):
 ![light shade](../images/P1100522.JPG)
-接著就可以拆後鏡組了，同樣是往逆時針方向轉：
-![拆卸後鏡組](../images/P1100521.JPG)
-後鏡組的發霉情況，可以看到邊緣有幾處長了霉絲：
-![發霉的後鏡組](../images/P1090481.JPG)
+The rear lens can be removed now, turn it in counter-clockwise direction:
+![rear lens removal](../images/P1100521.JPG)
+Fungus on the read lens, you can see they grow on the edge:
+![fungus on the rear lens](../images/P1090481.JPG)
 清理後對鏡片吹氣其實還是可以看得到當初發霉的地方：
 ![發霉痕跡](../images/P1100518.JPG)
 此時已經可以清理所有鏡片了，對於還沒被拆下來的中鏡組只要用T快門打開快門葉片就能處理。
