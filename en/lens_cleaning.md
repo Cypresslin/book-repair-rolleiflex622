@@ -1,29 +1,30 @@
 # Taking Lens Cleanup
-There were some fungus on the Carl Zeiss Tessar lens of this camera. Unfortunately it was the rear lens that got affected, so we will need to remove the front plate.
+There were some fungus on the Carl Zeiss Tessar lens of this camera. Unfortunately it was the rear lens that got affected, so we will need to [remove the front plate](front_plate.md).
 
 ### Lens Design
-The Carl Zeiss Tessar has a 3-groups-4-elements design, 四片鏡片組成三個部份，鏡間快門就位在左邊數來第二群與第三群鏡片之間：
+The Carl Zeiss Tessar has a 3-groups-4-elements design: four lenses in three parts. The Compur is located between the second and the third group.
 
 ![TessarDesign](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ZeissTessar-text.svg/220px-ZeissTessar-text.svg.png)
 
-(圖片來源: [Wikipedia - History of photographic lens design](https://en.wikipedia.org/wiki/History_of_photographic_lens_design))
+(Source: [Wikipedia - History of photographic lens design](https://en.wikipedia.org/wiki/History_of_photographic_lens_design))
 
-### 工具與材料
+### Tools and Materials
 
-* 拭鏡紙、稀釋藥用酒精
-* 一字起子
-* 止滑橡膠墊
-* 拆鏡扳手（克難一點用鐵尺也行，不大建議就是了）
+* Lens paper, diluted alcohol
+* Flat-blade screwdriver
+* Rubber mat
+* Spanner wrench (or a metal ruler will do, but not recommended)
 
-如果只需要拆前鏡片的話，那就什麼工具也不用了。
+You don't need any tools here if you only need to remove the front lens.
 
-### 拆卸前鏡片
-這裡最好拆的就是最前面那片鏡片，徒手用力往逆時針方向轉就有機會可以把它轉下來，如果卡得很緊的話可以用橡膠墊之類的東西來增加摩擦力：
+### Front Lens Removal
+This is the easiest part, just turn the lens with your hands in counter-clockwise direction to remove it. If it's too tight, try to use the rubber mat to increase the friction:
 
-![逆時針旋轉來拆下前鏡片](../images/P1160551.JPG)
-### 拆卸後鏡組
-在把前面板拆下來之後，最先看到的會是鏡尾的遮光套筒，同樣也是用手往逆時針方向一轉就可以把它轉下來（要用拆鏡扳手也可以）：
-![遮光套筒](../images/P1100522.JPG)
+![Remove the front lens in counter-clockwise direction](../images/P1160551.JPG)
+
+### Read Lens Removal
+After the [front plate was removed](front_plate.md), the first thing in sight is the light shade on the rear lens, remove it by turning it in counter-clockwise direction (or use the spanner wrench):
+![light shade](../images/P1100522.JPG)
 接著就可以拆後鏡組了，同樣是往逆時針方向轉：
 ![拆卸後鏡組](../images/P1100521.JPG)
 後鏡組的發霉情況，可以看到邊緣有幾處長了霉絲：
