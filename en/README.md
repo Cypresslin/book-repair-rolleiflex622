@@ -1,25 +1,28 @@
 # Rolleiflex 622 K2 Repair Journal
 
 ![Rolleiflex](../images/P1090459.JPG)
-這份文件紀錄了當初維修這台相機的步驟，由於維修作業不是一次完成，所以可能會看到照片不大連貫的現象，敬請見諒。
-本文以 [Gitbook](https://cypresslin.gitbooks.io/rolleiflex-622-repair/content/) 平台發布，您可以到 [GitHub](https://github.com/Cypresslin/book-repair-rolleiflex622) 找到原始文件，也可以到 [flickr 相簿](https://www.flickr.com/photos/57342563@N00/albums/72157672119064724) 中查看照片。
+The procedure for repairing this camera was documented here, please note that as these steps are not done sequentially, you might notice some inconsistency between pictures.
 
-**請注意這裡提供的所有資訊僅供參考，不提供任何擔保，請自行負擔所有可能的風險**
+This document was published with [Gitbook](https://cypresslin.gitbooks.io/rolleiflex-622-repair/content/) , you can also find the source on [GitHub](https://github.com/Cypresslin/book-repair-rolleiflex622) , and pictures on [flickr album](https://www.flickr.com/photos/57342563@N00/albums/72157672119064724).
 
-另外這裡也有關於如何[上片](https://youtu.be/vM9XcC0Qwdc) / [退片](https://youtu.be/Zn-e0FLdRuc)的說明影片可供參考。
+**ALL INFORMATION PROVIDED HERE IS FOR REFERENCE ONLY AND WITHOUT ANY WARRANTY. FOLLOW AT YOUR OWN RISK.**
 
-Thanks to the camera owner ePierre, who trusted me to repair this old camera from his dad, and lend it to me to .
+You can also find instruction videos about how to [load film](https://youtu.be/vM9XcC0Qwdc) / [unload film](https://youtu.be/Zn-e0FLdRuc).
+
+Thanks to the camera owner ePierre, who trusted me to repair this old camera from his dad, and lend it to me for several rolls.
 
 2016 Oct. PHLin
 
 #Summary
 There are four chapters in this document:
 * [拍攝鏡組清理](lens_cleaning.md)
-* [更換反光鏡](mirror_replacement.md)
-* [拆裝前面板](front_plate.md)
-* [拆卸光圈快門組件](disassemble_compur.md)
+* [Mirror Replacement](mirror_replacement.md)
+* [Front Plate Removeal](front_plate.md)
+* [Compur Disassembly](disassemble_compur.md)
 
 #Licensing
-**Rolleiflex 622 K2 Repair Journal** 係採用創用 CC 姓名標示-非商業性-相同方式分享 4.0 國際 授權條款授權，您可以在以下網址取得授權條款全文。
+**Rolleiflex 622 K2 Repair Journal** This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-http://creativecommons.org/licenses/by-nc/4.0/
+[![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
