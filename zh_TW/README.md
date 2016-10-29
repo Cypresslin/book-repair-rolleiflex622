@@ -8,7 +8,7 @@
 
 另外這裡也有關於如何[上片](https://youtu.be/vM9XcC0Qwdc) / [退片](https://youtu.be/Zn-e0FLdRuc)的說明影片可供參考。
 
-在此特別感謝相機主人 ePierre 願意讓我動手修這台他老爸留給的他老相機，並借我拍了好幾捲！
+在此特別感謝相機主人 ePierre 願意讓我動手修這台他老爸留給他的 80 歲老相機，並借我拍了好幾捲！
 
 2016 Oct. PHLin
 
