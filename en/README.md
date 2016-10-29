@@ -3,7 +3,7 @@
 ![Rolleiflex](../images/P1090459.JPG)
 The procedure for repairing this camera was documented here, please note that as these steps are not done sequentially, you might notice some inconsistency between pictures.
 
-This document was published with [Gitbook](https://cypresslin.gitbooks.io/rolleiflex-622-repair/content/) , you can also find the source on [GitHub](https://github.com/Cypresslin/book-repair-rolleiflex622) , and pictures on [flickr album](https://www.flickr.com/photos/57342563@N00/albums/72157672119064724).
+This document was published with [Gitbook](https://cypresslin.gitbooks.io/rolleiflex-622-repair/content/) , you can also find the source on [GitHub](https://github.com/Cypresslin/book-repair-rolleiflex622), please feel free to correct typos and provide translations, pictures are available on [flickr album](https://www.flickr.com/photos/57342563@N00/albums/72157672119064724) as well.
 
 **ALL INFORMATION PROVIDED HERE IS FOR REFERENCE ONLY AND WITHOUT ANY WARRANTY. FOLLOW AT YOUR OWN RISK.**
 
