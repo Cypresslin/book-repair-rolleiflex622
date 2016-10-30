@@ -1,49 +1,49 @@
 # Mirror Replacement
-這台機身上的反光鏡隨著歲月的流逝已經不堪使用了，嚴重影響了進光亮與對焦判斷，雖然看起來只是髒髒的只要洗乾淨就好，但實際上只要輕輕一抹，上面鍍的反光材質立刻就會脫落，只好把它換掉。
+As time goes by, the mirror in this camera has heavily degraded. Notably dims the light to the focus screen and affecting the focus process. It looks like it's just need to be cleaned, but when you gently wipe the mirror, the coating will came off right away. Replace it is the only solution.
 
 ### Tools and Materials
-* 一字起子
-* 新的反光鏡
-* 游標卡尺（用以確認新舊反光鏡厚度是否一致）
-* 水平儀（用以校正相機內的水平儀），用帶有水平儀並校正至水平狀態的腳架會簡單一點
+* Flat-blade screwdriver
+* New mirror
+* Calipers (to checke the thickness of the old / new mirror)
+* Level (to calibrate the level in the camera) a calibrated tripod will make this easier
 
-### 施工步驟
-1. 只要移除取景器兩側的一字螺絲，就可以將取景器取下：
-![取景器固定螺絲](../images/P1090469.JPG)
-2. 取下取景器後就會看到對焦屏了，它是由下方左右兩側的簧片支撐著，拆掉取景器之後它應該會彈起來一點，直接把它拿下來即可：
-![對焦屏](../images/P1090473.JPG)
-註：對焦屏超級容易刮傷，請小心輕放。注意安裝時要將對焦屏對齊機身開口，裝上取景器後它要能被往下壓入機身內。
+### Steps
+1. Remove the flat-blade screws on the both side of the viewfinder to remove it:
+![screws on the viewfinder](../images/P1090469.JPG)
+2. With viewfinder removed, the focus screen is now in sight. Which is supported by springs on both sides. The springs will pop the focus screen out after removing the viewfinder. The screen can be removed now:
+![focus screen](../images/P1090473.JPG)
+Note: The focus screen is super easy to get scratched, please handle with care. When installing the focus screen, make sure you have it aligned with the edge of the camera body. It should be pushed down into the body when the viewfinder installed on top of it.
 
-3. 把水平儀拿起來，並拆下固定水平儀用的螺絲來移除水平儀支架：
-![水平儀與支架](../images/P1190576.JPG)
+3. Remove the level, and those screws for the frame:
+![level and the frame](../images/P1190576.JPG)
 
-4. 移除固定鏡子用的兩根螺絲以及固定片，就可以把鏡子拆下來：
-![反光鏡固定片](../images/P1190577.JPG)
-新舊鏡子一比就可以看出舊的鏡子狀況有多糟：
-![新舊反光鏡比較](../images/P1190587.JPG)
-如果反光鏡自相機出廠之後就沒有更換過的話，你會在鏡子背面的角落找到它的出廠日期（有點難辨識就是了）：
-![反光鏡上的出廠日期](../images/P1190592.JPG)
-看起來似乎是 1936 年出廠的，到現在也八十年啦！
+4. Remove the retainer and two screws for the mirror to remove it:
+![mirror retainer](../images/P1190577.JPG)
+Side-by-side comparison, you can see how bad it is:
+![old and new mirror comparison](../images/P1190587.JPG)
+You can find the date of manufacture in the corner on the back of the mirror, if it's an original one (a little bit hard to read):
+![manufactured date on the mirror](../images/P1190592.JPG)
+Looks like it's made in 1936 , which means it's 80 years old now!
 
-5. 安裝鏡片時要注意，因為這種反射鏡是前反射鏡 (front surface mirror)，所以反射面要在上面，也就是鍍上反射材質的那面要朝上，不然會有殘影。另外要注意水平儀的校正，並趁這時候調整或更換機身與取景器間的那塊遮光絨布。
-![遮光絨布](../images/P1200599.JPG)
+5. Note that as this mirror is a front surface mirror (FSM). When you are installing the mirror, the coating side should face upward, otherwise you will see ghost images. Also, do not forget to calibrate the level and adjust or replace the light seal between the body and the viewfinder:
+![lgith seal](../images/P1200599.JPG)
 
-更換前與更換後的比較：
-![反光鏡更換前後](../images/MirrorInstalled.JPG)
-![觀景窗視角](../images/FocusScreen.JPG)
+Before and after replacing the mirror:
+![before and after](../images/MirrorInstalled.JPG)
+![view from the viewfinder](../images/FocusScreen.JPG)
 
 ### Mirror Specification
-以下規格是從網路上取得，當初在訂製新的反光鏡時也是用這組數字（不過厚度為1.2mm）：
-* 厚度：1.6mm
-* 梯形高：54.5mm
-* 上邊長：27.5mm
-* 下邊長：47.5mm
+The following dimensions are from the Internet, I made my mirror order with this specification too. (With 1.2mm thickness):
+* Thickness: 1.6mm
+* Height: 54.5mm
+* Short edge: 27.5mm
+* Long edge: 47.5mm
 
-後來用游標卡尺去測量那片拆下來的鏡子，取得的結果也差不多，只是厚度厚了點，貼上幾片塑膠片來增加厚度問題就解決了
-* 厚度：1.85mm
-* 梯形高：53.7mm
-* 上邊長：27.55mm
-* 下邊長：47.4mm
+These are the dimensions from the old mirror, measured with my caliper. The result is almost identical, except the difference in the thickness. Which can be compensated by sticking some plastic cards on the back of the mirror.
+* Thickness: 1.85mm
+* Height: 53.7mm
+* Short edge: 27.55mm
+* Long edge: 47.4mm
 
-從前面的照片中可以看出，上下邊長的誤差只要不要差太多，是幾乎沒有影響的，只要放得進鏡子的溝槽即可。而高度也是，不要超出固定片太多都鎖得上去。
-最重要的就是鏡子的厚度，由於鏡片到底片的距離沒有變，錯誤的反光鏡厚度會導致移焦。所以在更換鏡子時有一把游標卡尺可以確定厚度會比較好。
+From the pictures above, the tolerance for the short and long edges are much higher, if it can be put into the groove, it should be fine. Same as the height, as long as it's not exceeding the retainer too much.
+The most import figure is the thickness of the mirror. Since the distance from the lens to the film remain constant, the change in mirror thickness will cause focus shift. This is the reason why having a caliper at hand will be better for this task.
