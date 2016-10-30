@@ -21,5 +21,3 @@
 
 #授權
 **Rolleiflex 622 K2 維修日誌** 係採用創用 CC 姓名標示-非商業性-相同方式分享 4.0 國際 授權條款授權，您可以自[此網址](http://creativecommons.org/licenses/by-nc-sa/4.0/)取得授權條款全文。
-
-[![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
