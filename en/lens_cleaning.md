@@ -29,10 +29,10 @@ The rear lens can be removed now, turn it in counter-clockwise direction:
 ![rear lens removal](../images/P1100521.JPG)
 Fungus on the read lens, you can see they grow on the edge:
 ![fungus on the rear lens](../images/P1090481.JPG)
-清理後對鏡片吹氣其實還是可以看得到當初發霉的地方：
-![發霉痕跡](../images/P1100518.JPG)
-此時已經可以清理所有鏡片了，對於還沒被拆下來的中鏡組只要用T快門打開快門葉片就能處理。
-如果想要拆中鏡組，可以先嘗試從正面直接把中間那組鏡片往逆時針方向轉下來，不過從下圖中可以看出它只有超出機身一點點，可能不大好施力（橡膠墊應該可以派上用場），這比拆光圈快門組件來得簡單多了。
+The fungus trace still can be seen if you breath on the glass:
+![fungus trace](../images/P1100518.JPG)
+Now all the lenses can be reached. For the middle lens which is still attached to the front plate, use T shutter to open shutter blades, and you will be able to clean both sides.
+To remove the middle lens, unscrew it from the front plate in counter-clockwise direction, but as you can see from the picture below, 如果想要拆中鏡組，可以先嘗試從正面直接把中間那組鏡片往逆時針方向轉下來，不過從下圖中可以看出它只有超出機身一點點，可能不大好施力（橡膠墊應該可以派上用場），這比拆光圈快門組件來得簡單多了。
 
 若想將光圈快門組件卸下來，首先要把快門撥桿上的撥鈕拆下來，用一字起子抵住螺帽缺口，然後往逆時針方向扭動撥鈕即可：
 ![移除快門桿撥鈕](../images/P1100508.JPG)
@@ -49,7 +49,7 @@ Fungus on the read lens, you can see they grow on the edge:
 清理前後的比較，有些灰塵，不過已經好不少了：
 ![清理前後比較](../images/CleanCompare.JPG)
 
-### 組裝注意事項
+### Note for Assembly
 將光圈快門組件裝回去的時候要注意光圈與快門撥桿要準確的與前面板撥桿的溝槽接合：
 ![光圈撥桿](../images/ApertureCoupler.JPG)
 同樣的，快門撥桿也是一樣：
