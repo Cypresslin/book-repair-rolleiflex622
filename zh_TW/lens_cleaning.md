@@ -41,9 +41,3 @@
 
 清理前後的比較，有些灰塵，不過已經好不少了：
 ![清理前後比較](../images/CleanCompare.JPG)
-
-### 組裝注意事項
-將光圈快門組件裝回去的時候要注意光圈與快門撥桿要準確的與前面板撥桿的溝槽接合：
-![光圈撥桿](../images/ApertureCoupler.JPG)
-同樣的，快門撥桿也是一樣：
-![快門撥桿](../images/ShutterCoupler.JPG)
