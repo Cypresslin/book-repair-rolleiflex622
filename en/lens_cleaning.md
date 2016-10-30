@@ -37,13 +37,7 @@ Now all the lenses are available for cleaning. For the middle lens which is stil
 To remove the middle lens, unscrew it from the front plate in counter-clockwise direction. As shown in the picture below, this could be a difficult task as the lens is just slightly extended out from the front plate (rubber mat might be useful here). Anothor approach is to [remove the Compur component](disassemble_compur.md), and unsecrew the lens from it.
 ![middle lens removal](../images/P1100523.JPG)
 
-With Compur removed (note the the shutter coupler is not in this picture):
-![拆下來的零件](../images/P1150544.JPG)
-清理前後的比較，有些灰塵，不過已經好不少了：
-![清理前後比較](../images/CleanCompare.JPG)
-
-### Note for Assembly
-將光圈快門組件裝回去的時候要注意光圈與快門撥桿要準確的與前面板撥桿的溝槽接合：
-![光圈撥桿](../images/ApertureCoupler.JPG)
-同樣的，快門撥桿也是一樣：
-![快門撥桿](../images/ShutterCoupler.JPG)
+With Compur removed (note that the shutter coupler is not in this picture):
+![parts removed](../images/P1150544.JPG)
+Before and after comparison, there are still some dusts inside, but it's much better now:
+![before and after cleaning](../images/CleanCompare.JPG)
