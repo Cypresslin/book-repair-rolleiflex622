@@ -4,7 +4,7 @@ There were some fungus on the Carl Zeiss Tessar lens of this camera. Unfortunate
 ### Lens Design
 The Carl Zeiss Tessar has a 3-groups-4-elements design: four lenses in three parts. The Compur is located between the second and the third group.
 
-![TessarDesign](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ZeissTessar-text.svg/220px-ZeissTessar-text.svg.png)
+![TessarDesign](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ZeissTessar-text.svg/500px-ZeissTessar-text.svg.png)
 
 (Source: [Wikipedia - History of photographic lens design](https://en.wikipedia.org/wiki/History_of_photographic_lens_design))
 
