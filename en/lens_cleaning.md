@@ -31,8 +31,8 @@ Fungus on the read lens, you can see they grow on the edge:
 ![fungus on the rear lens](../images/P1090481.JPG)
 The fungus trace still can be seen if you breath on the glass:
 ![fungus trace](../images/P1100518.JPG)
-Now all the lenses can be reached. For the middle lens which is still attached to the front plate, use T shutter to open shutter blades, and you will be able to clean both sides.
-To remove the middle lens, unscrew it from the front plate in counter-clockwise direction, but as you can see from the picture below, 如果想要拆中鏡組，可以先嘗試從正面直接把中間那組鏡片往逆時針方向轉下來，不過從下圖中可以看出它只有超出機身一點點，可能不大好施力（橡膠墊應該可以派上用場），這比拆光圈快門組件來得簡單多了。
+Now all the lenses are available for cleaning. For the middle lens which is still attached to the front plate, use T shutter to open the blades and you will be able to clean both sides.
+To remove the middle lens, unscrew it from the front plate in counter-clockwise direction. As shown in the picture below, this might be a difficult task to apply force as it's just slightly extended from the front plate. (rubber mat might be useful here)
 
 若想將光圈快門組件卸下來，首先要把快門撥桿上的撥鈕拆下來，用一字起子抵住螺帽缺口，然後往逆時針方向扭動撥鈕即可：
 ![移除快門桿撥鈕](../images/P1100508.JPG)
