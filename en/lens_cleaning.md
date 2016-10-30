@@ -33,20 +33,11 @@ The fungus trace still can be seen if you breath on the glass:
 ![fungus trace](../images/P1100518.JPG)
 Now all the lenses are available for cleaning. For the middle lens which is still attached to the front plate, use T shutter to open the blades and you will be able to clean both sides.
 
-To remove the middle lens, unscrew it from the front plate in counter-clockwise direction. As shown in the picture below, this might be a difficult task as it's just slightly extended from the front plate. (Rubber mat might be useful here) Anothor approach is to remove the Compur component, and unsecrew the lens from it.
+### Middle Lens Removal
+To remove the middle lens, unscrew it from the front plate in counter-clockwise direction. As shown in the picture below, this could be a difficult task as the lens is just slightly extended out from the front plate (rubber mat might be useful here). Anothor approach is to [remove the Compur component](disassemble_compur.md), and unsecrew the lens from it.
 ![middle lens removal](../images/P1100523.JPG)
 
-若想將光圈快門組件卸下來，首先要把快門撥桿上的撥鈕拆下來，用一字起子抵住螺帽缺口，然後往逆時針方向扭動撥鈕即可：
-![移除快門桿撥鈕](../images/P1100508.JPG)
-再來是移除擋板的四顆螺絲：
-![快門組件固定螺絲](../images/P1100517.JPG)
-拿掉固定板之後，會看到一片快門控制連桿，照片中這個被拆下來的金屬環是安裝在它與光圈快門組件之間當作軸襯用的：
-![快門控制連桿片](../images/P1100503.JPG)
-先拿掉那個金屬環，讓快門控制連桿有空間可以活動，接著從靠近取景鏡頭那一側把它抬起來，然後再從前面板抽出來。搞定之後就可以把整個光圈快門組件拿起來：
-![拿起快門組件](../images/P1100494.JPG)
-從這就可以很輕鬆的把中鏡組給轉下來了，下面這張照片裡的快門連桿片是裝回去的狀態，藍框裡的東西就是會伸到前面板外的快門撥桿，而黃框就是這個連桿與光圈快門組件連動的地方，在推動快門撥桿的同時也會推動組件上的這個小金屬片來完成快門的上弦，而裡面那個像是螺絲孔的地方就是接快門線的地方啦：
-![快門組件](../images/P1100516.JPG)
-拆下來的東西（注意快門連桿不在裡面）：
+With Compur removed (note the the shutter coupler is not in this picture):
 ![拆下來的零件](../images/P1150544.JPG)
 清理前後的比較，有些灰塵，不過已經好不少了：
 ![清理前後比較](../images/CleanCompare.JPG)
