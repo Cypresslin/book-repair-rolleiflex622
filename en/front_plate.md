@@ -8,7 +8,7 @@ This task is quite easy. Just make sure not to touch the focus screw, or you wil
 It's better to start with focus knob set to infinity. Remove four big screws on the front to remove the front plate. The screws in the yellow circles are for the taking lens:
 ![screws on the front plate](../images/P1100542.JPG)
 
-拆下前面板後，這裡黃銅色的部份就是對焦螺絲了，如果覺得對焦不順可以對這些螺絲加點潤滑油。另外因為只要輕輕碰到它就會轉，所以請留意，轉一點點還好，轉超過一圈就有可能要整個調整：
+With front plate removed, the brass parts here are the focus screws. 如果覺得對焦不順可以對這些螺絲加點潤滑油。另外因為只要輕輕碰到它就會轉，所以請留意，轉一點點還好，轉超過一圈就有可能要整個調整：
 ![focus screws](../images/P1100528.JPG)
 
 ### 安裝注意事項
