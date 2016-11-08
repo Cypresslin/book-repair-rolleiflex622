@@ -1,5 +1,5 @@
 # Front Plate Removal
-This task is quite easy. Just make sure not to touch the focus screw, or you will have extra calibration tasks to do.
+This task is pretty easy. Just make sure not to touch the focus screw, or you will have extra calibration tasks to do.
 
 ### Tools and Materials
 * Flat-blade screwdriver
@@ -8,20 +8,20 @@ This task is quite easy. Just make sure not to touch the focus screw, or you wil
 It's better to start with focus knob set to infinity. Remove four big screws on the front to remove the front plate. The screws in the yellow circles are for the taking lens:
 ![screws on the front plate](../images/P1100542.JPG)
 
-The brass parts here are the focus screws, they can be seen with front plate removed. Lubricate them if the focus is sluggish. 另外因為只要輕輕碰到它就會轉，所以請留意，轉一點點還好，轉超過一圈就有可能要整個調整：
+The brass parts here are the focus screws, they can be seen with front plate removed. Lubricate them if the focus is sluggish. Please note that they can be turned easily, and if they're misaligned too much, you might need to do the focus calibration:
 ![focus screws](../images/P1100528.JPG)
 
 ### Note for Assembly
-在前面板的螺絲孔上可以看到有個小凸點，這是要跟機身上的對焦螺絲上的缺口咬合的位置：
-![對焦螺絲](../images/FocusCoupler.JPG)
-將前面板裝上去之後先不要急著把螺絲鎖回去，先稍微轉動對焦旋鈕，然後透過螺絲孔觀察對焦螺絲是否有跟著旋轉，在正常狀況下對焦螺絲上的凹槽應該是要跟前面板上的凸點接合在一起，所以應該是不會旋轉的，如果有看到旋轉的狀況那表示角度可能跑掉了，調整一下再重新安裝一次吧。
+There are small dots located on the screw hole of the front plate, this should fit together with the notch on the focus screw:
+![focus screw](../images/FocusCoupler.JPG)
+When installing the front plate, do not 先不要急著把螺絲鎖回去，先稍微轉動對焦旋鈕，然後透過螺絲孔觀察對焦螺絲是否有跟著旋轉，在正常狀況下對焦螺絲上的凹槽應該是要跟前面板上的凸點接合在一起，所以應該是不會旋轉的，如果有看到旋轉的狀況那表示角度可能跑掉了，調整一下再重新安裝一次吧。
 
-這裡可以有個說明如何檢查對焦螺絲角度是否正確的影片：[https://www.youtube.com/watch?v=mgkWgJbTUgg](https://www.youtube.com/watch?v=mgkWgJbTUgg)
+Here is a clip shows how to determine if the focus screws are properly aligned: [https://www.youtube.com/watch?v=mgkWgJbTUgg](https://www.youtube.com/watch?v=mgkWgJbTUgg)
 
 ### Focus Calibration
 如果不幸動到了對焦螺絲，而又沒辦法讓他恢復到最一開始的狀況，那就得來調整對焦距離啦。這工作蠻麻煩的，最糟的情況就是除了要調整對焦螺絲之外，還得調整取景鏡頭。
 
-Turn the focus knob to infinity, put a grounded glass or a tracing paper 首先將對焦旋鈕轉到無限遠的記號上，然後把描圖紙或磨砂玻璃貼在底片的位置：
+Turn the focus knob to infinity, put a grounded glass or a tracing paper in the film chamber:
 ![focus calibration](../images/P1100539.JPG)
 然後重複進行：調整對焦螺絲->組合前面板->對無限遠的目標物（明亮的月亮，遠方的景物等等）對焦，當遠方的景物清晰可見時就完成了，如果還嫌不夠也可以對旋鈕上的其他距離如2m, 1.8m等距離做進一步的驗證與調整，只要記住無限遠必須合焦這點就可以了。
 
