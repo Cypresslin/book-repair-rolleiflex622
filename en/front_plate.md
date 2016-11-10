@@ -14,12 +14,12 @@ The brass parts here are the focus screws, they can be seen with front plate rem
 ### Note for Assembly
 There are small dots located on the screw hole of the front plate, this should fit together with the notch on the focus screw:
 ![focus screw](../images/FocusCoupler.JPG)
-When installing the front plate, do not 先不要急著把螺絲鎖回去，先稍微轉動對焦旋鈕，然後透過螺絲孔觀察對焦螺絲是否有跟著旋轉，在正常狀況下對焦螺絲上的凹槽應該是要跟前面板上的凸點接合在一起，所以應該是不會旋轉的，如果有看到旋轉的狀況那表示角度可能跑掉了，調整一下再重新安裝一次吧。
+When installing the front plate, check the focus screw first before  先不要急著把螺絲鎖回去，先稍微轉動對焦旋鈕，然後透過螺絲孔觀察對焦螺絲是否有跟著旋轉，在正常狀況下對焦螺絲上的凹槽應該是要跟前面板上的凸點接合在一起，所以應該是不會旋轉的，如果有看到旋轉的狀況那表示角度可能跑掉了，調整一下再重新安裝一次吧。
 
 Here is a clip shows how to determine if the focus screws are properly aligned: [https://www.youtube.com/watch?v=mgkWgJbTUgg](https://www.youtube.com/watch?v=mgkWgJbTUgg)
 
 ### Focus Calibration
-如果不幸動到了對焦螺絲，而又沒辦法讓他恢復到最一開始的狀況，那就得來調整對焦距離啦。這工作蠻麻煩的，最糟的情況就是除了要調整對焦螺絲之外，還得調整取景鏡頭。
+If the focus screws are misaligned and cannot be restored to the initial state, it's time for focus calibration. This will be a tidius job, in the worst case not only the focus 最糟的情況就是除了要調整對焦螺絲之外，還得調整取景鏡頭。
 
 Turn the focus knob to infinity, put a grounded glass or a tracing paper in the film chamber:
 ![focus calibration](../images/P1100539.JPG)
