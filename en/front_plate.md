@@ -19,13 +19,13 @@ When installing the front plate, check the focus screw first before  先不要�
 Here is a clip shows how to determine if the focus screws are properly aligned: [https://www.youtube.com/watch?v=mgkWgJbTUgg](https://www.youtube.com/watch?v=mgkWgJbTUgg)
 
 ### Focus Calibration
-If the focus screws are misaligned and cannot be restored to the initial state, it's time for focus calibration. This will be a tidius job, in the worst case not only the focus 最糟的情況就是除了要調整對焦螺絲之外，還得調整取景鏡頭。
+If the focus screws are misaligned and cannot be restored to the initial state, it's time for focus calibration. This will be a tidius job. In the worst case, the focus screw and the viewing lens are both in need of adjustment.
 
 Turn the focus knob to infinity, put a grounded glass or a tracing paper in the film chamber:
 ![focus calibration](../images/P1100539.JPG)
-然後重複進行：調整對焦螺絲->組合前面板->對無限遠的目標物（明亮的月亮，遠方的景物等等）對焦，當遠方的景物清晰可見時就完成了，如果還嫌不夠也可以對旋鈕上的其他距離如2m, 1.8m等距離做進一步的驗證與調整，只要記住無限遠必須合焦這點就可以了。
+And repeat the following steps: adjust the focus screws -> install the front plate -> check on a distant target (bright moon, landscape). It's done when the target is sharp and clear. You can further verify that with other distance mark like 2m, 1.8m on the focus knob, just remember it MUST be able to focus on infinity.
 
 ### Viewing Lens Calibration
-如果萬一在調整好對焦螺絲後，發現從底片室對一目標物正確對焦，但從取景器裡看進去卻沒有合焦，那麼這時候就需要來調整取景鏡頭了。取景鏡頭的固定方式是將鏡頭同時旋入前面板以及一塊固定板，再透過兩支螺絲將固定板鎖在前面板上，所以首先要做的就是拆掉那兩支螺絲（請參閱「拆卸前面板」章節中照片裡的黃圈就是了），接著轉鬆那片固定板之後就可以將鏡頭轉下來了，不過如果只是要微調的話不建議把它整個拆下來：
+When the target is sharp and clear from the film chamber, but not in focus from the view finder, you will need to adjust the viewing lens. The viewing lens is screwed to the front plate and fixed by a retainer plate with 2 screws. Remove those screws first (please refer to "Front Plate Removal" section, they're marked with yellow circles on the front plate), then loosen the retainer plate to free the lens. It's better to keep the retainer and the lens there for fine-tuning:
 ![remove taking lens](../images/RemoveViewLens.JPG)
-調整的方式是先讓拍攝鏡頭對一目標物合焦後，重複進行：轉鬆一點固定片->轉動一點取景鏡頭->從取景器檢查是否有合焦。最後調整完把螺絲鎖回去就大功告成了。
+To calibrate it, first make the taking lens focused on a target and repeat: loosen the retainer a little bit -> adjust the viewing lens -> check the result from the view finder. Remember to put the screws back when you're done.
