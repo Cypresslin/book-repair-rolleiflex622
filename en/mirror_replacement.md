@@ -4,7 +4,7 @@ As time goes by, the mirror in this camera has heavily degraded. Notably dims th
 ### Tools and Materials
 * Flat-blade screwdriver
 * New mirror
-* Calipers (to checke the thickness of the old / new mirror)
+* Calipers (to check the thickness of the old / new mirror)
 * Level (to calibrate the level in the camera) a calibrated tripod will make this easier
 
 ### Steps

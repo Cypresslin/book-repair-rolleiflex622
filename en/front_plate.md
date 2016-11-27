@@ -14,12 +14,12 @@ The brass parts here are the focus screws, they can be seen with front plate rem
 ### Note for Assembly
 There are small dots located on the screw hole of the front plate, this should fit together with the notch on the focus screw:
 ![focus screw](../images/FocusCoupler.JPG)
-When installing the front plate, check the focus screw first before  先不要急著把螺絲鎖回去，先稍微轉動對焦旋鈕，然後透過螺絲孔觀察對焦螺絲是否有跟著旋轉，在正常狀況下對焦螺絲上的凹槽應該是要跟前面板上的凸點接合在一起，所以應該是不會旋轉的，如果有看到旋轉的狀況那表示角度可能跑掉了，調整一下再重新安裝一次吧。
+While installing the front plate, put the front plate back on without screws. Then slightly turn the focus knob and check the underlying focus screws through the screw hole first. As mentioned earlier, the notch on the focus screw should match with the dot on the plate. Thus it should not move when you turn the focus knob. Otherwise you will need to adjust the angle of it and re-install it again.
 
-Here is a clip shows how to determine if the focus screws are properly aligned: [https://www.youtube.com/watch?v=mgkWgJbTUgg](https://www.youtube.com/watch?v=mgkWgJbTUgg)
+Here is a clip that demonstrates how to check if the focus screw is properly aligned: [https://www.youtube.com/watch?v=mgkWgJbTUgg](https://www.youtube.com/watch?v=mgkWgJbTUgg)
 
 ### Focus Calibration
-If the focus screws are misaligned and cannot be restored to the initial state, it's time for focus calibration. This will be a tidius job. In the worst case, the focus screw and the viewing lens are both in need of adjustment.
+If any of these focus screws are misaligned and cannot be restored to the initial state, it's time for focus calibration. This will be a tedious job. In the worst case, the focus screw and the viewing lens are both in need of calibration.
 
 Turn the focus knob to infinity, put a grounded glass or a tracing paper in the film chamber:
 ![focus calibration](../images/P1100539.JPG)

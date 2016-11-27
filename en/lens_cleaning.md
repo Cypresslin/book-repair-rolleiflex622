@@ -34,7 +34,7 @@ The fungus trace still can be seen if you breath on the glass:
 Now all the lenses are available for cleaning. For the middle lens which is still attached to the front plate, use T shutter to open the blades and you will be able to clean both sides.
 
 ### Middle Lens Removal
-To remove the middle lens, unscrew it from the front plate in counter-clockwise direction. As shown in the picture below, this could be a difficult task as the lens is just slightly extended out from the front plate (rubber mat might be useful here). Anothor approach is to [remove the Compur component](disassemble_compur.md), and unsecrew the lens from it.
+To remove the middle lens, unscrew it from the front plate in counter-clockwise direction. As shown in the picture below, this could be a difficult task as the lens is just slightly extended out from the front plate (rubber mat might be useful here). Another approach is to [remove the Compur component](disassemble_compur.md), and unscrew the lens from it.
 ![middle lens removal](../images/P1100523.JPG)
 
 With Compur removed (note that the shutter coupler is not in this picture):
