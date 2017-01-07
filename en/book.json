@@ -3,9 +3,9 @@
   "pluginsConfig": {
     "disqus": {
       "shortName": "nothing-here"
-    }
-  "sharing": {
-    "weibo": false
     },
+    "sharing": {
+      "weibo": false
+    }
   }
 }
