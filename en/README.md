@@ -21,5 +21,4 @@ There are four chapters in this document:
 * [Compur Disassembly](disassemble_compur.md)
 
 #Licensing
-**Rolleiflex 622 K2 Repair Journal** This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
+**Rolleiflex 622 K2 Repair Journal** This work is licensed under a [![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](../images/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
