@@ -4,5 +4,8 @@
     "disqus": {
       "shortName": "nothing-here"
     }
+  "sharing": {
+    "weibo": false,
+    },
   }
 }
