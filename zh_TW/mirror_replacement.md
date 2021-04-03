@@ -47,3 +47,32 @@
 
 從前面的照片中可以看出，上下邊長的誤差只要不要差太多，是幾乎沒有影響的，只要放得進鏡子的溝槽即可。而高度也是，不要超出固定片太多都鎖得上去。
 最重要的就是鏡子的厚度，由於鏡片到底片的距離沒有變，錯誤的反光鏡厚度會導致移焦。所以在更換鏡子時有一把游標卡尺可以確定厚度會比較好。
+
+### 同場加映 - 各種相機型號的反光鏡規格
+以下資料來自於網路，似乎是 ebay 商品頁吧？有點不可考，手邊也沒有這些機器，所以就僅供參考吧！若您知道您相機的鏡子規格也歡迎讓我知道，我會把他加在這裡。
+
+| Model                                          | Thickness | Long Side | Short Side |  Height  |
+|------------------------------------------------|-----------|-----------|------------|----------|
+| Rolleiflex K1                                  |  0.98 mm  |  49.25 mm |  25.25 mm  | 54.25 mm |
+| Rolleiflex Standard K2 620 (Tessar 75/4.5)     |  1.60 mm  |  47.50 mm |  27.50 mm  | 54.00 mm |
+| Rolleiflex Standard K2 621 (Tessar 75/3.8)     |  1.00 mm  |  47.00 mm |  27.50 mm  | 54.50 mm |
+| Rolleiflex Standard K2 622 (Tessar 75/3.5)     |  1.60 mm  |  47.50 mm |  27.50 mm  | 54.00 mm |
+| Rolleiflex Standard k4 640                     |  1.25 mm  |  50.50 mm |  31.50 mm  | 63.50 mm |
+| Rolleiflex 3.5E,F; 2.8F (for eye level finder) |  1.25 mm  |  39.00 mm |  27.00 mm  | 30.00 mm |
+| Rolleiflex 2.8F and 3.5E, F                    |  1.60 mm  |  51.00 mm |  32.00 mm  | 63.00 mm |
+| Rolleiflex 2.8F                                |           |  50.00 mm |  31.00 mm  | 65.00 mm |
+| Rolleiflex 3.5E2,E3,F; 2.8E,E3,F               |  1.50 mm  |  51.00 mm |  32.00 mm  | 64.50 mm |
+| Rolleiflex Baby 4x4 (pre-war)                  |  1.10 mm  |  33.50 mm |  24.50 mm  | 44.00 mm |
+| Rolleiflex Baby 4x4 (post-war)                 |  1.60 mm  |  39.00 mm |  23.00 mm  | 47.00 mm |
+| Rolleicord I, IIb, Vb                          |  1.60 mm  |  51.00 mm |  27.50 mm  | 60.00 mm |
+| Rolleicord II, IIa, III                        |  1.25 mm  |  51.00 mm |  28.00 mm  | 60.00 mm |
+| Rolleicord Ia                                  |  1.00 mm  |  51.00 mm |  27.00 mm  | 60.00 mm |
+| Ikoflex I (850/16), (852/16) II/III            |  1.25 mm  |  49.50 mm |  32.50 mm  | 67.00 mm |
+| Rolleiflex 2.8 and 3.5 Model F                 |  1.60 mm  |  51.00 mm |  32.00 mm  | 63.00 mm |
+| Rolleiflex Automat 3.5                         |  1.25 mm  |  50.00 mm |  31.00 mm  | 63.00 mm |
+| Mamiya c3 & c220f                              |  1.25 mm  |  56.00 mm |  44.00 mm  | 67.00 mm (corner needs to be chamfered 1mm) |
+| Mamiya RZ67 Pro II                             |  1.00 mm  |  70mm x 60mm and the 4 corners are chamfered 1mm |
+| Yashica MAT or 124G                            |  1.60 mm  |  50.00 mm |  30.00 mm  | 57.00 mm |
+| Voigtlander Brilliant S Focusing Bakelite      |  0.98 mm  |  46.00 mm |  30.00 mm  | 57.00 mm |
+| Voigtlander Brilliant V6 Bakelite              |  1.10 mm  |  43.75 mm |  30.00 mm  | 48.00 mm |
+| Minolta Autocord                               |  1.25 mm  |  50.00 mm |  28.00 mm  | 60.00 mm |
