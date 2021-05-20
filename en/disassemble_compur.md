@@ -30,7 +30,7 @@ Shutter component removed:
 ![shutter component](../images/P1100492.JPG)
 Do not forget to push the spring in this green circle back in when assembling it. Also, these five shutter blades could come off easily, any bents on them will cause shutter malfunctions, please be cautious.
 
-Apply some grease oil to the gears here, and shutter works better:
+Apply some lubricants to the gears here and shutter works better (just apply a little bit, otherwise the oil might get to some unwanted places). Don't forget to clean it first if needed, oil + dust is sometimes the cause of this kind of erratic behaviour, people say high grade isopropyl alcohol can do the job. However this camera just need some lubricants:
 ![gears](../images/P1100489.JPG)
 
 Another side of the shutter component:
@@ -42,3 +42,10 @@ While installing the compur component, the shutter and aperture lever should be 
 ![aperture control lever](../images/ApertureCoupler.JPG)
 Same thing for the shutter control lever:
 ![shutter control lever](../images/ShutterCoupler.JPG)
+
+### What Kind of Lubricant to Use
+As the lubricant here is for gears that control the shutter speed, one principle to follow is to choose oil with low viscosity to prevent any side effects to the speed. On the internet you will see people recommending clock oil from Moebius [1] or even sewing machine oil. I choose the latter here.
+
+Regarding what kind of lubricant to use for different parts, here is an article on dchome forum - [dchome - DIY相機維修 潤滑油 資料](http://www.dchome.net/forum.php?mod=viewthread&tid=698691), user kl122002 shared a list of lubricants for different parts, just FYI.
+
+[1] [DIY CAMERA MAINTENANCE/REPAIR RESOURCES - PART III | BRETT ROGERS](https://www.filmshooterscollective.com/analog-film-photography-blog/diy-camera-maintenancerepair-resources-part-iii-brett-rogers-4-27)

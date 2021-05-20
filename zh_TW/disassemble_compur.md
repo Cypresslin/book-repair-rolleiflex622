@@ -26,7 +26,7 @@
 ![快門組件](../images/P1100492.JPG)
 注意這裡綠圈裡的彈簧，在裝回去的時候記得要先把它往內壓進去。另外這五片快門葉片是會掉下來的，任何彎折都可能會造成動作異常、漏光等狀況，請小心。
 
-對這些齒輪上一點油，快門運作就順多了：
+對這些齒輪上一點油後快門運作就順多了（一點點就好，太多可能會使它流到不該去的地方）。上油前請先檢查是否有明顯的髒汙，有時候灰塵跟油脂混合後的髒東西也是造成運作不良的主因，如果有髒汙的話可以考慮用高純度的異丙醇去清理，不過這台不需要所以就沒這樣做了：
 ![齒輪](../images/P1100489.JPG)
 
 這是快門組件的另一面：
@@ -38,3 +38,11 @@
 ![光圈撥桿](../images/ApertureCoupler.JPG)
 同樣的，快門撥桿也是一樣：
 ![快門撥桿](../images/ShutterCoupler.JPG)
+
+### 潤滑油的選用
+因為是要給快門速度齒輪用的，選用準則就是黏性低一點的以免影響速度，網路上有網友推薦使用 Moebius 推出的鐘錶用油[1]，也有人說針車油可以用，而這裡我用的是屬於輕質潤滑油的針車油。
+
+關於什麼零件要用什麼油，這裡有一篇來自 dchome 論壇的文章，[dchome - DIY相機維修 潤滑油 資料](http://www.dchome.net/forum.php?mod=viewthread&tid=698691)，裡面有網友 kl122002 整理的各種零件的用油資料可以參考看看。
+
+[1] [DIY CAMERA MAINTENANCE/REPAIR RESOURCES - PART III | BRETT ROGERS](https://www.filmshooterscollective.com/analog-film-photography-blog/diy-camera-maintenancerepair-resources-part-iii-brett-rogers-4-27)
+[2] 若連結失效請見 [Wayback Machine 上的快照](https://web.archive.org/web/20210520024835/http://www.dchome.net/forum.php?mod=viewthread&tid=698691)
